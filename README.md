@@ -1,7 +1,9 @@
 # 👋 My name is Ivan Bernat
-I like to build things for the web.
 
-## Current employment
+I am currently working on a project to help my fellow developers land their dream remote job. Remote work is the best work!
+
+## Previously, I worked at..
+
 
 ### UPPER
 Role: VP of Talent and Client Operations _(Berlin, Germany)_
@@ -23,7 +25,6 @@ As the member of the founding team, I am/was also responsible for:
 - Core-team recruitment and interviewing.
 - Various other "hats" that a first hires usually wear.
 
-## Before that, I worked at..
 
 ### MVP Factory 
 
